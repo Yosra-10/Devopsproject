@@ -1,0 +1,296 @@
+{
+  "docusaurus-lunr-search": {
+    "default": {
+      "fileNames": {
+        "searchDoc": "search-doc-1690314766300.json",
+        "lunrIndex": "lunr-index-1690314766300.json"
+      }
+    }
+  },
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "Getting Started/Requirements",
+          "docs": [
+            {
+              "id": "10/Configure & Install Capsule",
+              "path": "/docs/10/Configure & Install Capsule",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "10/Overview",
+              "path": "/docs/10/Overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "6/Installation & Configuration of Keycloak",
+              "path": "/docs/6/Installation & Configuration of Keycloak",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "6/Integration with AWX",
+              "path": "/docs/6/Integration with AWX",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "6/Integration with Grafana",
+              "path": "/docs/6/Integration with Grafana",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "6/Overview",
+              "path": "/docs/6/Overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "7/Backup Developer workstation with Veeam",
+              "path": "/docs/7/Backup Developer workstation with Veeam",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "7/Backup kubernetes namespace with Kasten10 by Veeam",
+              "path": "/docs/7/Backup kubernetes namespace with Kasten10 by Veeam",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "7/Installatation of Kasten10 by Veaam",
+              "path": "/docs/7/Installatation of Kasten10 by Veaam",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "7/Introduction",
+              "path": "/docs/7/Introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "8/CentralizedSecret",
+              "path": "/docs/8/CentralizedSecret",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "8/Configure Vault",
+              "path": "/docs/8/Configure Vault",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "8/Install Vault",
+              "path": "/docs/8/Install Vault",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "8/Integrate Vault with helm",
+              "path": "/docs/8/Integrate Vault with helm",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "8/Integrate Vault with Jenkins",
+              "path": "/docs/8/Integrate Vault with Jenkins",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "9/CommingSoon",
+              "path": "/docs/9/CommingSoon",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "90/Access AWX",
+              "path": "/docs/90/Access AWX",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "90/Access GCP instance",
+              "path": "/docs/90/Access GCP instance",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Application Architecture/Overview",
+              "path": "/docs/Application Architecture/Overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Azure DevOps/Configuration of Grafana Dashboards",
+              "path": "/docs/Azure DevOps/Configuration of Grafana Dashboards",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Azure DevOps/ExposeMetrics",
+              "path": "/docs/Azure DevOps/ExposeMetrics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Azure DevOps/Installation of Grafana",
+              "path": "/docs/Azure DevOps/Installation of Grafana",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Azure DevOps/Installation of Prometheus",
+              "path": "/docs/Azure DevOps/Installation of Prometheus",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Azure DevOps/Overview",
+              "path": "/docs/Azure DevOps/Overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Deploy ArgoCD/Ansible",
+              "path": "/docs/Deploy ArgoCD/Ansible",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Deploy ArgoCD/Configuring AWX",
+              "path": "/docs/Deploy ArgoCD/Configuring AWX",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Deploy ArgoCD/Installing ArgoCD with Helm",
+              "path": "/docs/Deploy ArgoCD/Installing ArgoCD with Helm",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Deploy ArgoCD/Introduction",
+              "path": "/docs/Deploy ArgoCD/Introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Deploy ArgoCD/Serverspec",
+              "path": "/docs/Deploy ArgoCD/Serverspec",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Dockerizing/docker compose",
+              "path": "/docs/Dockerizing/docker compose",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Dockerizing/Dockerfile",
+              "path": "/docs/Dockerizing/Dockerfile",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Getting Started/Requirements",
+              "path": "/docs/Getting Started/Requirements",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/congratulations",
+              "path": "/docs/tutorial-basics/congratulations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/create-a-blog-post",
+              "path": "/docs/tutorial-basics/create-a-blog-post",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/create-a-document",
+              "path": "/docs/tutorial-basics/create-a-document",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/create-a-page",
+              "path": "/docs/tutorial-basics/create-a-page",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/deploy-your-site",
+              "path": "/docs/tutorial-basics/deploy-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/markdown-features",
+              "path": "/docs/tutorial-basics/markdown-features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/manage-docs-versions",
+              "path": "/docs/tutorial-extras/manage-docs-versions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/translate-your-site",
+              "path": "/docs/tutorial-extras/translate-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/getting-started",
+              "path": "/docs/category/getting-started",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/application-architecture",
+              "path": "/docs/category/application-architecture",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/dockerizing-",
+              "path": "/docs/category/dockerizing-",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/azure-devops",
+              "path": "/docs/category/azure-devops",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/deploy-argocd",
+              "path": "/docs/category/deploy-argocd",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/single-sign-on-with-keycloak",
+              "path": "/docs/category/single-sign-on-with-keycloak",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/backup",
+              "path": "/docs/category/backup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/secrets",
+              "path": "/docs/category/secrets",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/disaster-recovery",
+              "path": "/docs/category/disaster-recovery",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/multi-tenancy",
+              "path": "/docs/category/multi-tenancy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/tutorial---basics",
+              "path": "/docs/category/tutorial---basics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/tutorial---extras",
+              "path": "/docs/category/tutorial---extras",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/category/getting-started",
+                "label": "Getting Started"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

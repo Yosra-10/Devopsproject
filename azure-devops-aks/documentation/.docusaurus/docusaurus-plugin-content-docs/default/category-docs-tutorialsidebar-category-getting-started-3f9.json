@@ -1,0 +1,12 @@
+{
+  "title": "Getting Started",
+  "description": "Enjoy!",
+  "slug": "/category/getting-started",
+  "permalink": "/docs/category/getting-started",
+  "navigation": {
+    "next": {
+      "title": "How to start with the project",
+      "permalink": "/docs/Getting Started/Requirements"
+    }
+  }
+}

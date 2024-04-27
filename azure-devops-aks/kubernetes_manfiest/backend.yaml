@@ -1,0 +1,43 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: backend
+spec:
+  selector:
+    matchLabels:
+      app: backend
+  replicas: 1
+  # strategy:
+  #   type: RollingUpdate
+  #   rollingUpdate:
+  #     maxUnavailable: 50%
+  #     maxSurge: 50%
+  template:
+    metadata:
+      labels:
+        app: backend
+    spec:
+      containers:
+        - name: backend
+          image: chamseddinedocker/crudappbackend:latest
+          # image: crudappcontainerregistry.azurecr.io/backend:production
+          ports:
+            - containerPort: 3700
+          env:
+            - name: MONGO_URI
+              value: mongodb://mongodb:27017/crud-users-db
+            - name: PORT
+              value: "3700"
+          imagePullPolicy: Always
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: backend
+spec:
+  selector:
+    app: backend
+  ports:
+    - protocol: TCP
+      port: 3700
+      targetPort: 3700

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Dockerizing/Dockerfile",
+  "id": "Dockerizing/Dockerfile",
+  "title": "Dockerfile",
+  "description": "To containerize the front end application using Docker, follow these steps:",
+  "source": "@site/docs/Dockerizing/Dockerfile.md",
+  "sourceDirName": "Dockerizing",
+  "slug": "/Dockerizing/Dockerfile",
+  "permalink": "/docs/Dockerizing/Dockerfile",
+  "draft": false,
+  "editUrl": "https://github.com/Chamssiddine/azure-devops-aks/docs/Dockerizing/Dockerfile.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dockerizing ",
+    "permalink": "/docs/category/dockerizing-"
+  },
+  "next": {
+    "title": "Docker Compose",
+    "permalink": "/docs/Dockerizing/docker compose"
+  }
+}

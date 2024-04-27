@@ -1,0 +1,16 @@
+{
+  "title": "Backup",
+  "description": "Enjoy!",
+  "slug": "/category/backup",
+  "permalink": "/docs/category/backup",
+  "navigation": {
+    "previous": {
+      "title": "Integration with Grafana",
+      "permalink": "/docs/6/Integration with Grafana"
+    },
+    "next": {
+      "title": "Veeam Use Cases",
+      "permalink": "/docs/7/Introduction"
+    }
+  }
+}

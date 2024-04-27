@@ -1,0 +1,16 @@
+{
+  "title": "Azure DevOps",
+  "description": "Enjoy!",
+  "slug": "/category/azure-devops",
+  "permalink": "/docs/category/azure-devops",
+  "navigation": {
+    "previous": {
+      "title": "Docker Compose",
+      "permalink": "/docs/Dockerizing/docker compose"
+    },
+    "next": {
+      "title": "Overview",
+      "permalink": "/docs/Azure DevOps/Overview"
+    }
+  }
+}

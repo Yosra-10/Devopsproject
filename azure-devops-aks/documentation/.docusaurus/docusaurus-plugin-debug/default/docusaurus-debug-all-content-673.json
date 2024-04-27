@@ -1,0 +1,1810 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
+          "editUrl": "https://github.com/Chamssiddine/azure-devops-aks/docs",
+          "editUrlLocalized": "https://github.com/Chamssiddine/azure-devops-aks/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/chamseddine/Documents/github/azure-devops-aks/documentation/sidebars.js",
+          "contentPath": "/Users/chamseddine/Documents/github/azure-devops-aks/documentation/docs",
+          "contentPathLocalized": "/Users/chamseddine/Documents/github/azure-devops-aks/documentation/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "unversionedId": "10/Configure & Install Capsule",
+              "id": "10/Configure & Install Capsule",
+              "title": "Configure & Install Capsule",
+              "description": "Due to the limitation of my gcp university account it's not possible to enable rbac security groups",
+              "source": "@site/docs/10/Configure & Install Capsule.md",
+              "sourceDirName": "10",
+              "slug": "/10/Configure & Install Capsule",
+              "permalink": "/docs/10/Configure & Install Capsule",
+              "draft": false,
+              "editUrl": "https://github.com/Chamssiddine/azure-devops-aks/docs/10/Configure & Install Capsule.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Overview of Capsule",
+                "permalink": "/docs/10/Overview"
+              },
+              "next": {
+                "title": "Tutorial - Basics",
+                "permalink": "/docs/category/tutorial---basics"
+              }
+            },
+            {
+              "unversionedId": "10/Overview",
+              "id": "10/Overview",
+              "title": "Overview of Capsule",
+              "description": "",
+              "source": "@site/docs/10/Overview.md",
+              "sourceDirName": "10",
+              "slug": "/10/Overview",
+              "permalink": "/docs/10/Overview",
+              "draft": false,
+              "editUrl": "https://github.com/Chamssiddine/azure-devops-aks/docs/10/Overview.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Multi-Tenancy",
+                "permalink": "/docs/category/multi-tenancy"
+              },
+              "next": {
+                "title": "Configure & Install Capsule",
+                "permalink": "/docs/10/Configure & Install Capsule"
+              }
+            },
+            {
+              "unversionedId": "6/Installation & Configuration of Keycloak",
+              "id": "6/Installation & Configuration of Keycloak",
+              "title": "Installation & Configuration of Keycloak",
+              "description": "1. Navigate to the Keycloak Helm Chart directory in your Git repo:",
+              "source": "@site/docs/6/Installation & Configuration of Keycloak.md",
+              "sourceDirName": "6",
+              "slug": "/6/Installation & Configuration of Keycloak",
+              "permalink": "/docs/6/Installation & Configuration of Keycloak",
+              "draft": false,
+              "editUrl": "https://github.com/Chamssiddine/azure-devops-aks/docs/6/Installation & Configuration of Keycloak.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Overview",
+                "permalink": "/docs/6/Overview"
+              },
+              "next": {
+                "title": "How to Integrate Keycloak with AWX",
+                "permalink": "/docs/6/Integration with AWX"
+              }
+            },
+            {
+              "unversionedId": "6/Integration with AWX",
+              "id": "6/Integration with AWX",
+              "title": "How to Integrate Keycloak with AWX",
+              "description": "1. Navigate to setttings on AWX -> Miscellaneous System settings",
+              "source": "@site/docs/6/Integration with AWX.md",
+              "sourceDirName": "6",
+              "slug": "/6/Integration with AWX",
+              "permalink": "/docs/6/Integration with AWX",
+              "draft": false,
+              "editUrl": "https://github.com/Chamssiddine/azure-devops-aks/docs/6/Integration with AWX.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Installation & Configuration of Keycloak",
+                "permalink": "/docs/6/Installation & Configuration of Keycloak"
+              },
+              "next": {
+                "title": "Integration with Grafana",
+                "permalink": "/docs/6/Integration with Grafana"
+              }
+            },
+            {
+              "unversionedId": "6/Integration with Grafana",
+              "id": "6/Integration with Grafana",
+              "title": "Integration with Grafana",
+              "description": "Integrate Keycloak with Grafana",
+              "source": "@site/docs/6/Integration with Grafana.md",
+              "sourceDirName": "6",
+              "slug": "/6/Integration with Grafana",
+              "permalink": "/docs/6/Integration with Grafana",
+              "draft": false,
+              "editUrl": "https://github.com/Chamssiddine/azure-devops-aks/docs/6/Integration with Grafana.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "How to Integrate Keycloak with AWX",
+                "permalink": "/docs/6/Integration with AWX"
+              },
+              "next": {
+                "title": "Backup",
+                "permalink": "/docs/category/backup"
+              }
+            },
+            {
+              "unversionedId": "6/Overview",
+              "id": "6/Overview",
+              "title": "Overview",
+              "description": "Single Sign-On with Keycloak",
+              "source": "@site/docs/6/Overview.md",
+              "sourceDirName": "6",
+              "slug": "/6/Overview",
+              "permalink": "/docs/6/Overview",
+              "draft": false,
+              "editUrl": "https://github.com/Chamssiddine/azure-devops-aks/docs/6/Overview.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Single Sign-On with Keycloak",
+                "permalink": "/docs/category/single-sign-on-with-keycloak"
+              },
+              "next": {
+                "title": "Installation & Configuration of Keycloak",
+                "permalink": "/docs/6/Installation & Configuration of Keycloak"
+              }
+            },
+            {
+              "unversionedId": "7/Backup Developer workstation with Veeam",
+              "id": "7/Backup Developer workstation with Veeam",
+              "title": "Documentation: Configuring Backup Policies with GCP Veeam Service",
+              "description": "Overview",
+              "source": "@site/docs/7/Backup Developer workstation with Veeam.md",
+              "sourceDirName": "7",
+              "slug": "/7/Backup Developer workstation with Veeam",
+              "permalink": "/docs/7/Backup Developer workstation with Veeam",
+              "draft": false,
+              "editUrl": "https://github.com/Chamssiddine/azure-devops-aks/docs/7/Backup Developer workstation with Veeam.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Backup kubernetes namespace with Kasten10 by Veeam",
+                "permalink": "/docs/7/Backup kubernetes namespace with Kasten10 by Veeam"
+              },
+              "next": {
+                "title": "Secrets",
+                "permalink": "/docs/category/secrets"
+              }
+            },
+            {
+              "unversionedId": "7/Backup kubernetes namespace with Kasten10 by Veeam",
+              "id": "7/Backup kubernetes namespace with Kasten10 by Veeam",
+              "title": "Backup kubernetes namespace with Kasten10 by Veeam",
+              "description": "This documentation provides a step-by-step guide on how to configure backup policies using the GCP Veeam service. By following these instructions, you can effectively manage and store backups for your namespaces in Google Cloud Platform (GCP). Video tutorials are included to demonstrate the configuration process.",
+              "source": "@site/docs/7/Backup kubernetes namespace with Kasten10 by Veeam.md",
+              "sourceDirName": "7",
+              "slug": "/7/Backup kubernetes namespace with Kasten10 by Veeam",
+              "permalink": "/docs/7/Backup kubernetes namespace with Kasten10 by Veeam",
+              "draft": false,
+              "editUrl": "https://github.com/Chamssiddine/azure-devops-aks/docs/7/Backup kubernetes namespace with Kasten10 by Veeam.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Installatation of Kasten10 by Veaam",
+                "permalink": "/docs/7/Installatation of Kasten10 by Veaam"
+              },
+              "next": {
+                "title": "Documentation: Configuring Backup Policies with GCP Veeam Service",
+                "permalink": "/docs/7/Backup Developer workstation with Veeam"
+              }
+            },
+            {
+              "unversionedId": "7/Installatation of Kasten10 by Veaam",
+              "id": "7/Installatation of Kasten10 by Veaam",
+              "title": "Installatation of Kasten10 by Veaam",
+              "description": "Step 1: Create a K10 Service Account",
+              "source": "@site/docs/7/Installatation of Kasten10 by Veaam.md",
+              "sourceDirName": "7",
+              "slug": "/7/Installatation of Kasten10 by Veaam",
+              "permalink": "/docs/7/Installatation of Kasten10 by Veaam",
+              "draft": false,
+              "editUrl": "https://github.com/Chamssiddine/azure-devops-aks/docs/7/Installatation of Kasten10 by Veaam.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Veeam Use Cases",
+                "permalink": "/docs/7/Introduction"
+              },
+              "next": {
+                "title": "Backup kubernetes namespace with Kasten10 by Veeam",
+                "permalink": "/docs/7/Backup kubernetes namespace with Kasten10 by Veeam"
+              }
+            },
+            {
+              "unversionedId": "7/Introduction",
+              "id": "7/Introduction",
+              "title": "Veeam Use Cases",
+              "description": "Veeam is a comprehensive backup and disaster recovery solution that offers various use cases to meet the needs of different organizations. Here are some common use cases where Veeam proves to be valuable:",
+              "source": "@site/docs/7/Introduction.md",
+              "sourceDirName": "7",
+              "slug": "/7/Introduction",
+              "permalink": "/docs/7/Introduction",
+              "draft": false,
+              "editUrl": "https://github.com/Chamssiddine/azure-devops-aks/docs/7/Introduction.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Backup",
+                "permalink": "/docs/category/backup"
+              },
+              "next": {
+                "title": "Installatation of Kasten10 by Veaam",
+                "permalink": "/docs/7/Installatation of Kasten10 by Veaam"
+              }
+            },
+            {
+              "unversionedId": "8/CentralizedSecret",
+              "id": "8/CentralizedSecret",
+              "title": "CentralizedSecret",
+              "description": "Importance of Centralized Credentials Management with Vault by HashiCorp",
+              "source": "@site/docs/8/CentralizedSecret.md",
+              "sourceDirName": "8",
+              "slug": "/8/CentralizedSecret",
+              "permalink": "/docs/8/CentralizedSecret",
+              "draft": false,
+              "editUrl": "https://github.com/Chamssiddine/azure-devops-aks/docs/8/CentralizedSecret.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Secrets",
+                "permalink": "/docs/category/secrets"
+              },
+              "next": {
+                "title": "Install Vault",
+                "permalink": "/docs/8/Install Vault"
+              }
+            },
+            {
+              "unversionedId": "8/Configure Vault",
+              "id": "8/Configure Vault",
+              "title": "Configure Vault Cluster",
+              "description": "Step 1: Initialize and unseal one Vault pod",
+              "source": "@site/docs/8/Configure Vault.md",
+              "sourceDirName": "8",
+              "slug": "/8/Configure Vault",
+              "permalink": "/docs/8/Configure Vault",
+              "draft": false,
+              "editUrl": "https://github.com/Chamssiddine/azure-devops-aks/docs/8/Configure Vault.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Install Vault",
+                "permalink": "/docs/8/Install Vault"
+              },
+              "next": {
+                "title": "Integrate Vault with helm",
+                "permalink": "/docs/8/Integrate Vault with helm"
+              }
+            },
+            {
+              "unversionedId": "8/Install Vault",
+              "id": "8/Install Vault",
+              "title": "Install Vault",
+              "description": "Install the Vault Helm chart",
+              "source": "@site/docs/8/Install Vault.md",
+              "sourceDirName": "8",
+              "slug": "/8/Install Vault",
+              "permalink": "/docs/8/Install Vault",
+              "draft": false,
+              "editUrl": "https://github.com/Chamssiddine/azure-devops-aks/docs/8/Install Vault.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "CentralizedSecret",
+                "permalink": "/docs/8/CentralizedSecret"
+              },
+              "next": {
+                "title": "Configure Vault Cluster",
+                "permalink": "/docs/8/Configure Vault"
+              }
+            },
+            {
+              "unversionedId": "8/Integrate Vault with helm",
+              "id": "8/Integrate Vault with helm",
+              "title": "Integrate Vault with helm",
+              "description": "",
+              "source": "@site/docs/8/Integrate Vault with helm.md",
+              "sourceDirName": "8",
+              "slug": "/8/Integrate Vault with helm",
+              "permalink": "/docs/8/Integrate Vault with helm",
+              "draft": false,
+              "editUrl": "https://github.com/Chamssiddine/azure-devops-aks/docs/8/Integrate Vault with helm.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Configure Vault Cluster",
+                "permalink": "/docs/8/Configure Vault"
+              },
+              "next": {
+                "title": "Integrate Vault with Jenkins",
+                "permalink": "/docs/8/Integrate Vault with Jenkins"
+              }
+            },
+            {
+              "unversionedId": "8/Integrate Vault with Jenkins",
+              "id": "8/Integrate Vault with Jenkins",
+              "title": "Integrate Vault with Jenkins",
+              "description": "",
+              "source": "@site/docs/8/Integrate Vault with Jenkins.md",
+              "sourceDirName": "8",
+              "slug": "/8/Integrate Vault with Jenkins",
+              "permalink": "/docs/8/Integrate Vault with Jenkins",
+              "draft": false,
+              "editUrl": "https://github.com/Chamssiddine/azure-devops-aks/docs/8/Integrate Vault with Jenkins.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Integrate Vault with helm",
+                "permalink": "/docs/8/Integrate Vault with helm"
+              },
+              "next": {
+                "title": "Disaster Recovery",
+                "permalink": "/docs/category/disaster-recovery"
+              }
+            },
+            {
+              "unversionedId": "9/CommingSoon",
+              "id": "9/CommingSoon",
+              "title": "CommingSoon",
+              "description": "- Scaling and managing the infrastructure",
+              "source": "@site/docs/9/CommingSoon.md",
+              "sourceDirName": "9",
+              "slug": "/9/CommingSoon",
+              "permalink": "/docs/9/CommingSoon",
+              "draft": false,
+              "editUrl": "https://github.com/Chamssiddine/azure-devops-aks/docs/9/CommingSoon.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Disaster Recovery",
+                "permalink": "/docs/category/disaster-recovery"
+              },
+              "next": {
+                "title": "Multi-Tenancy",
+                "permalink": "/docs/category/multi-tenancy"
+              }
+            },
+            {
+              "unversionedId": "90/Access AWX",
+              "id": "90/Access AWX",
+              "title": "Access AWX",
+              "description": "",
+              "source": "@site/docs/90/Access AWX.md",
+              "sourceDirName": "90",
+              "slug": "/90/Access AWX",
+              "permalink": "/docs/90/Access AWX",
+              "draft": false,
+              "editUrl": "https://github.com/Chamssiddine/azure-devops-aks/docs/90/Access AWX.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Access GCP instance",
+                "permalink": "/docs/90/Access GCP instance"
+              }
+            },
+            {
+              "unversionedId": "90/Access GCP instance",
+              "id": "90/Access GCP instance",
+              "title": "Access GCP instance",
+              "description": "Step 1 install ssh plugin in VSCODE",
+              "source": "@site/docs/90/Access GCP instance.md",
+              "sourceDirName": "90",
+              "slug": "/90/Access GCP instance",
+              "permalink": "/docs/90/Access GCP instance",
+              "draft": false,
+              "editUrl": "https://github.com/Chamssiddine/azure-devops-aks/docs/90/Access GCP instance.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Translate your site",
+                "permalink": "/docs/tutorial-extras/translate-your-site"
+              },
+              "next": {
+                "title": "Access AWX",
+                "permalink": "/docs/90/Access AWX"
+              }
+            },
+            {
+              "unversionedId": "Application Architecture/Overview",
+              "id": "Application Architecture/Overview",
+              "title": "CRUD 3-Tier Application",
+              "description": "Overview",
+              "source": "@site/docs/Application Architecture/Overview.md",
+              "sourceDirName": "Application Architecture",
+              "slug": "/Application Architecture/Overview",
+              "permalink": "/docs/Application Architecture/Overview",
+              "draft": false,
+              "editUrl": "https://github.com/Chamssiddine/azure-devops-aks/docs/Application Architecture/Overview.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Application Architecture",
+                "permalink": "/docs/category/application-architecture"
+              },
+              "next": {
+                "title": "Dockerizing ",
+                "permalink": "/docs/category/dockerizing-"
+              }
+            },
+            {
+              "unversionedId": "Azure DevOps/Configuration of Grafana Dashboards",
+              "id": "Azure DevOps/Configuration of Grafana Dashboards",
+              "title": "Configuration of Grafana Dashboards",
+              "description": "Configuration of Grafana Dashboards",
+              "source": "@site/docs/Azure DevOps/Configuration of Grafana Dashboards.md",
+              "sourceDirName": "Azure DevOps",
+              "slug": "/Azure DevOps/Configuration of Grafana Dashboards",
+              "permalink": "/docs/Azure DevOps/Configuration of Grafana Dashboards",
+              "draft": false,
+              "editUrl": "https://github.com/Chamssiddine/azure-devops-aks/docs/Azure DevOps/Configuration of Grafana Dashboards.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Installation of Grafana",
+                "permalink": "/docs/Azure DevOps/Installation of Grafana"
+              },
+              "next": {
+                "title": "Deploy ArgoCD",
+                "permalink": "/docs/category/deploy-argocd"
+              }
+            },
+            {
+              "unversionedId": "Azure DevOps/ExposeMetrics",
+              "id": "Azure DevOps/ExposeMetrics",
+              "title": "Exposing Metrics for Developer VMs",
+              "description": "To expose metrics for each developer's VM in your project, we will be using Node Exporter. We have prepared a bash script to install Node Exporter using the gcloud CLI and the scp feature.",
+              "source": "@site/docs/Azure DevOps/ExposeMetrics.md",
+              "sourceDirName": "Azure DevOps",
+              "slug": "/Azure DevOps/ExposeMetrics",
+              "permalink": "/docs/Azure DevOps/ExposeMetrics",
+              "draft": false,
+              "editUrl": "https://github.com/Chamssiddine/azure-devops-aks/docs/Azure DevOps/ExposeMetrics.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Overview",
+                "permalink": "/docs/Azure DevOps/Overview"
+              },
+              "next": {
+                "title": "Installation of Prometheus",
+                "permalink": "/docs/Azure DevOps/Installation of Prometheus"
+              }
+            },
+            {
+              "unversionedId": "Azure DevOps/Installation of Grafana",
+              "id": "Azure DevOps/Installation of Grafana",
+              "title": "Installation of Grafana",
+              "description": "To deploy Grafana using the Helm Chart, follow these steps:",
+              "source": "@site/docs/Azure DevOps/Installation of Grafana.md",
+              "sourceDirName": "Azure DevOps",
+              "slug": "/Azure DevOps/Installation of Grafana",
+              "permalink": "/docs/Azure DevOps/Installation of Grafana",
+              "draft": false,
+              "editUrl": "https://github.com/Chamssiddine/azure-devops-aks/docs/Azure DevOps/Installation of Grafana.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Installation of Prometheus",
+                "permalink": "/docs/Azure DevOps/Installation of Prometheus"
+              },
+              "next": {
+                "title": "Configuration of Grafana Dashboards",
+                "permalink": "/docs/Azure DevOps/Configuration of Grafana Dashboards"
+              }
+            },
+            {
+              "unversionedId": "Azure DevOps/Installation of Prometheus",
+              "id": "Azure DevOps/Installation of Prometheus",
+              "title": "Installation of Prometheus",
+              "description": "1. Navigate to the Prometheus chart directory:",
+              "source": "@site/docs/Azure DevOps/Installation of Prometheus.md",
+              "sourceDirName": "Azure DevOps",
+              "slug": "/Azure DevOps/Installation of Prometheus",
+              "permalink": "/docs/Azure DevOps/Installation of Prometheus",
+              "draft": false,
+              "editUrl": "https://github.com/Chamssiddine/azure-devops-aks/docs/Azure DevOps/Installation of Prometheus.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Exposing Metrics for Developer VMs",
+                "permalink": "/docs/Azure DevOps/ExposeMetrics"
+              },
+              "next": {
+                "title": "Installation of Grafana",
+                "permalink": "/docs/Azure DevOps/Installation of Grafana"
+              }
+            },
+            {
+              "unversionedId": "Azure DevOps/Overview",
+              "id": "Azure DevOps/Overview",
+              "title": "Overview",
+              "description": "Monitoring with Prometheus and Grafana",
+              "source": "@site/docs/Azure DevOps/Overview.md",
+              "sourceDirName": "Azure DevOps",
+              "slug": "/Azure DevOps/Overview",
+              "permalink": "/docs/Azure DevOps/Overview",
+              "draft": false,
+              "editUrl": "https://github.com/Chamssiddine/azure-devops-aks/docs/Azure DevOps/Overview.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Azure DevOps",
+                "permalink": "/docs/category/azure-devops"
+              },
+              "next": {
+                "title": "Exposing Metrics for Developer VMs",
+                "permalink": "/docs/Azure DevOps/ExposeMetrics"
+              }
+            },
+            {
+              "unversionedId": "Deploy ArgoCD/Ansible",
+              "id": "Deploy ArgoCD/Ansible",
+              "title": "Running Ansible Playbook with Dynamic Inventory",
+              "description": "This documentation provides a step-by-step guide on how to run an Ansible playbook with dynamic inventory on Google Cloud Platform (GCP). By the end of this guide, you should be able to transfer an SSH public key to workstations using bash scripts and run an Ansible playbook on GCP instances.",
+              "source": "@site/docs/Deploy ArgoCD/Ansible.md",
+              "sourceDirName": "Deploy ArgoCD",
+              "slug": "/Deploy ArgoCD/Ansible",
+              "permalink": "/docs/Deploy ArgoCD/Ansible",
+              "draft": false,
+              "editUrl": "https://github.com/Chamssiddine/azure-devops-aks/docs/Deploy ArgoCD/Ansible.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "## How to install ArgoCD using Helm",
+                "permalink": "/docs/Deploy ArgoCD/Installing ArgoCD with Helm"
+              },
+              "next": {
+                "title": "Configuring AWX",
+                "permalink": "/docs/Deploy ArgoCD/Configuring AWX"
+              }
+            },
+            {
+              "unversionedId": "Deploy ArgoCD/Configuring AWX",
+              "id": "Deploy ArgoCD/Configuring AWX",
+              "title": "Configuring AWX",
+              "description": "Requirements",
+              "source": "@site/docs/Deploy ArgoCD/Configuring AWX.md",
+              "sourceDirName": "Deploy ArgoCD",
+              "slug": "/Deploy ArgoCD/Configuring AWX",
+              "permalink": "/docs/Deploy ArgoCD/Configuring AWX",
+              "draft": false,
+              "editUrl": "https://github.com/Chamssiddine/azure-devops-aks/docs/Deploy ArgoCD/Configuring AWX.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Running Ansible Playbook with Dynamic Inventory",
+                "permalink": "/docs/Deploy ArgoCD/Ansible"
+              },
+              "next": {
+                "title": "Serverspec",
+                "permalink": "/docs/Deploy ArgoCD/Serverspec"
+              }
+            },
+            {
+              "unversionedId": "Deploy ArgoCD/Installing ArgoCD with Helm",
+              "id": "Deploy ArgoCD/Installing ArgoCD with Helm",
+              "title": "## How to install ArgoCD using Helm",
+              "description": "How to install ArgoCD using Helm",
+              "source": "@site/docs/Deploy ArgoCD/Installing ArgoCD with Helm.md",
+              "sourceDirName": "Deploy ArgoCD",
+              "slug": "/Deploy ArgoCD/Installing ArgoCD with Helm",
+              "permalink": "/docs/Deploy ArgoCD/Installing ArgoCD with Helm",
+              "draft": false,
+              "editUrl": "https://github.com/Chamssiddine/azure-devops-aks/docs/Deploy ArgoCD/Installing ArgoCD with Helm.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Deploy ArgoCD",
+                "permalink": "/docs/Deploy ArgoCD/Introduction"
+              },
+              "next": {
+                "title": "Running Ansible Playbook with Dynamic Inventory",
+                "permalink": "/docs/Deploy ArgoCD/Ansible"
+              }
+            },
+            {
+              "unversionedId": "Deploy ArgoCD/Introduction",
+              "id": "Deploy ArgoCD/Introduction",
+              "title": "Deploy ArgoCD",
+              "description": "",
+              "source": "@site/docs/Deploy ArgoCD/Introduction.md",
+              "sourceDirName": "Deploy ArgoCD",
+              "slug": "/Deploy ArgoCD/Introduction",
+              "permalink": "/docs/Deploy ArgoCD/Introduction",
+              "draft": false,
+              "editUrl": "https://github.com/Chamssiddine/azure-devops-aks/docs/Deploy ArgoCD/Introduction.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Deploy ArgoCD",
+                "permalink": "/docs/category/deploy-argocd"
+              },
+              "next": {
+                "title": "## How to install ArgoCD using Helm",
+                "permalink": "/docs/Deploy ArgoCD/Installing ArgoCD with Helm"
+              }
+            },
+            {
+              "unversionedId": "Deploy ArgoCD/Serverspec",
+              "id": "Deploy ArgoCD/Serverspec",
+              "title": "Serverspec",
+              "description": "Why Use ServerSpec with Ansible",
+              "source": "@site/docs/Deploy ArgoCD/Serverspec.md",
+              "sourceDirName": "Deploy ArgoCD",
+              "slug": "/Deploy ArgoCD/Serverspec",
+              "permalink": "/docs/Deploy ArgoCD/Serverspec",
+              "draft": false,
+              "editUrl": "https://github.com/Chamssiddine/azure-devops-aks/docs/Deploy ArgoCD/Serverspec.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Configuring AWX",
+                "permalink": "/docs/Deploy ArgoCD/Configuring AWX"
+              },
+              "next": {
+                "title": "Single Sign-On with Keycloak",
+                "permalink": "/docs/category/single-sign-on-with-keycloak"
+              }
+            },
+            {
+              "unversionedId": "Dockerizing/docker compose",
+              "id": "Dockerizing/docker compose",
+              "title": "Docker Compose",
+              "description": "To create and manage multiple containers simultaneously, you can use Docker Compose. The following Docker Compose configuration file allows you to deploy the front end, back end, and MongoDB containers together:",
+              "source": "@site/docs/Dockerizing/docker compose.md",
+              "sourceDirName": "Dockerizing",
+              "slug": "/Dockerizing/docker compose",
+              "permalink": "/docs/Dockerizing/docker compose",
+              "draft": false,
+              "editUrl": "https://github.com/Chamssiddine/azure-devops-aks/docs/Dockerizing/docker compose.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Dockerfile",
+                "permalink": "/docs/Dockerizing/Dockerfile"
+              },
+              "next": {
+                "title": "Azure DevOps",
+                "permalink": "/docs/category/azure-devops"
+              }
+            },
+            {
+              "unversionedId": "Dockerizing/Dockerfile",
+              "id": "Dockerizing/Dockerfile",
+              "title": "Dockerfile",
+              "description": "To containerize the front end application using Docker, follow these steps:",
+              "source": "@site/docs/Dockerizing/Dockerfile.md",
+              "sourceDirName": "Dockerizing",
+              "slug": "/Dockerizing/Dockerfile",
+              "permalink": "/docs/Dockerizing/Dockerfile",
+              "draft": false,
+              "editUrl": "https://github.com/Chamssiddine/azure-devops-aks/docs/Dockerizing/Dockerfile.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Dockerizing ",
+                "permalink": "/docs/category/dockerizing-"
+              },
+              "next": {
+                "title": "Docker Compose",
+                "permalink": "/docs/Dockerizing/docker compose"
+              }
+            },
+            {
+              "unversionedId": "Getting Started/Requirements",
+              "id": "Getting Started/Requirements",
+              "title": "How to start with the project",
+              "description": "In this guide, we'll walk you through the steps necessary to get started with the project.",
+              "source": "@site/docs/Getting Started/Requirements.md",
+              "sourceDirName": "Getting Started",
+              "slug": "/Getting Started/Requirements",
+              "permalink": "/docs/Getting Started/Requirements",
+              "draft": false,
+              "editUrl": "https://github.com/Chamssiddine/azure-devops-aks/docs/Getting Started/Requirements.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Getting Started",
+                "permalink": "/docs/category/getting-started"
+              },
+              "next": {
+                "title": "Application Architecture",
+                "permalink": "/docs/category/application-architecture"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/congratulations",
+              "id": "tutorial-basics/congratulations",
+              "title": "Congratulations!",
+              "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+              "source": "@site/docs/tutorial-basics/congratulations.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/congratulations",
+              "permalink": "/docs/tutorial-basics/congratulations",
+              "draft": false,
+              "editUrl": "https://github.com/Chamssiddine/azure-devops-aks/docs/tutorial-basics/congratulations.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Deploy your site",
+                "permalink": "/docs/tutorial-basics/deploy-your-site"
+              },
+              "next": {
+                "title": "Tutorial - Extras",
+                "permalink": "/docs/category/tutorial---extras"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/create-a-blog-post",
+              "id": "tutorial-basics/create-a-blog-post",
+              "title": "Create a Blog Post",
+              "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+              "source": "@site/docs/tutorial-basics/create-a-blog-post.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/create-a-blog-post",
+              "permalink": "/docs/tutorial-basics/create-a-blog-post",
+              "draft": false,
+              "editUrl": "https://github.com/Chamssiddine/azure-devops-aks/docs/tutorial-basics/create-a-blog-post.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Create a Document",
+                "permalink": "/docs/tutorial-basics/create-a-document"
+              },
+              "next": {
+                "title": "Markdown Features",
+                "permalink": "/docs/tutorial-basics/markdown-features"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/create-a-document",
+              "id": "tutorial-basics/create-a-document",
+              "title": "Create a Document",
+              "description": "Documents are groups of pages connected through:",
+              "source": "@site/docs/tutorial-basics/create-a-document.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/create-a-document",
+              "permalink": "/docs/tutorial-basics/create-a-document",
+              "draft": false,
+              "editUrl": "https://github.com/Chamssiddine/azure-devops-aks/docs/tutorial-basics/create-a-document.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Create a Page",
+                "permalink": "/docs/tutorial-basics/create-a-page"
+              },
+              "next": {
+                "title": "Create a Blog Post",
+                "permalink": "/docs/tutorial-basics/create-a-blog-post"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/create-a-page",
+              "id": "tutorial-basics/create-a-page",
+              "title": "Create a Page",
+              "description": "Add Markdown or React files to src/pages to create a standalone page:",
+              "source": "@site/docs/tutorial-basics/create-a-page.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/create-a-page",
+              "permalink": "/docs/tutorial-basics/create-a-page",
+              "draft": false,
+              "editUrl": "https://github.com/Chamssiddine/azure-devops-aks/docs/tutorial-basics/create-a-page.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Tutorial - Basics",
+                "permalink": "/docs/category/tutorial---basics"
+              },
+              "next": {
+                "title": "Create a Document",
+                "permalink": "/docs/tutorial-basics/create-a-document"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/deploy-your-site",
+              "id": "tutorial-basics/deploy-your-site",
+              "title": "Deploy your site",
+              "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+              "source": "@site/docs/tutorial-basics/deploy-your-site.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/deploy-your-site",
+              "permalink": "/docs/tutorial-basics/deploy-your-site",
+              "draft": false,
+              "editUrl": "https://github.com/Chamssiddine/azure-devops-aks/docs/tutorial-basics/deploy-your-site.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Markdown Features",
+                "permalink": "/docs/tutorial-basics/markdown-features"
+              },
+              "next": {
+                "title": "Congratulations!",
+                "permalink": "/docs/tutorial-basics/congratulations"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/markdown-features",
+              "id": "tutorial-basics/markdown-features",
+              "title": "Markdown Features",
+              "description": "Docusaurus supports Markdown and a few additional features.",
+              "source": "@site/docs/tutorial-basics/markdown-features.mdx",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/markdown-features",
+              "permalink": "/docs/tutorial-basics/markdown-features",
+              "draft": false,
+              "editUrl": "https://github.com/Chamssiddine/azure-devops-aks/docs/tutorial-basics/markdown-features.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Create a Blog Post",
+                "permalink": "/docs/tutorial-basics/create-a-blog-post"
+              },
+              "next": {
+                "title": "Deploy your site",
+                "permalink": "/docs/tutorial-basics/deploy-your-site"
+              }
+            },
+            {
+              "unversionedId": "tutorial-extras/manage-docs-versions",
+              "id": "tutorial-extras/manage-docs-versions",
+              "title": "Manage Docs Versions",
+              "description": "Docusaurus can manage multiple versions of your docs.",
+              "source": "@site/docs/tutorial-extras/manage-docs-versions.md",
+              "sourceDirName": "tutorial-extras",
+              "slug": "/tutorial-extras/manage-docs-versions",
+              "permalink": "/docs/tutorial-extras/manage-docs-versions",
+              "draft": false,
+              "editUrl": "https://github.com/Chamssiddine/azure-devops-aks/docs/tutorial-extras/manage-docs-versions.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Tutorial - Extras",
+                "permalink": "/docs/category/tutorial---extras"
+              },
+              "next": {
+                "title": "Translate your site",
+                "permalink": "/docs/tutorial-extras/translate-your-site"
+              }
+            },
+            {
+              "unversionedId": "tutorial-extras/translate-your-site",
+              "id": "tutorial-extras/translate-your-site",
+              "title": "Translate your site",
+              "description": "Let's translate docs/intro.md to French.",
+              "source": "@site/docs/tutorial-extras/translate-your-site.md",
+              "sourceDirName": "tutorial-extras",
+              "slug": "/tutorial-extras/translate-your-site",
+              "permalink": "/docs/tutorial-extras/translate-your-site",
+              "draft": false,
+              "editUrl": "https://github.com/Chamssiddine/azure-devops-aks/docs/tutorial-extras/translate-your-site.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Manage Docs Versions",
+                "permalink": "/docs/tutorial-extras/manage-docs-versions"
+              },
+              "next": {
+                "title": "Access GCP instance",
+                "permalink": "/docs/90/Access GCP instance"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "category",
+                "label": "Getting Started",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Getting Started/Requirements"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Enjoy!",
+                  "slug": "/category/getting-started",
+                  "permalink": "/docs/category/getting-started"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Application Architecture",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Application Architecture/Overview"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Enjoy!",
+                  "slug": "/category/application-architecture",
+                  "permalink": "/docs/category/application-architecture"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Dockerizing ",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Dockerizing/Dockerfile"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Dockerizing/docker compose"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Enjoy!",
+                  "slug": "/category/dockerizing-",
+                  "permalink": "/docs/category/dockerizing-"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Azure DevOps",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Azure DevOps/Overview"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Azure DevOps/ExposeMetrics"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Azure DevOps/Installation of Prometheus"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Azure DevOps/Installation of Grafana"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Azure DevOps/Configuration of Grafana Dashboards"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Enjoy!",
+                  "slug": "/category/azure-devops",
+                  "permalink": "/docs/category/azure-devops"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Deploy ArgoCD",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Deploy ArgoCD/Introduction"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Deploy ArgoCD/Installing ArgoCD with Helm"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Deploy ArgoCD/Ansible"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Deploy ArgoCD/Configuring AWX"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Deploy ArgoCD/Serverspec"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Enjoy!",
+                  "slug": "/category/deploy-argocd",
+                  "permalink": "/docs/category/deploy-argocd"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Single Sign-On with Keycloak",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "6/Overview"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "6/Installation & Configuration of Keycloak"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "6/Integration with AWX"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "6/Integration with Grafana"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Enjoy!",
+                  "slug": "/category/single-sign-on-with-keycloak",
+                  "permalink": "/docs/category/single-sign-on-with-keycloak"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Backup",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "7/Introduction"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "7/Installatation of Kasten10 by Veaam"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "7/Backup kubernetes namespace with Kasten10 by Veeam"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "7/Backup Developer workstation with Veeam"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Enjoy!",
+                  "slug": "/category/backup",
+                  "permalink": "/docs/category/backup"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Secrets",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "8/CentralizedSecret"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "8/Install Vault"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "8/Configure Vault"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "8/Integrate Vault with helm"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "8/Integrate Vault with Jenkins"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Enjoy!",
+                  "slug": "/category/secrets",
+                  "permalink": "/docs/category/secrets"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Disaster Recovery",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "9/CommingSoon"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Enjoy!",
+                  "slug": "/category/disaster-recovery",
+                  "permalink": "/docs/category/disaster-recovery"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Multi-Tenancy",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "10/Overview"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "10/Configure & Install Capsule"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Enjoy!",
+                  "slug": "/category/multi-tenancy",
+                  "permalink": "/docs/category/multi-tenancy"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Tutorial - Basics",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/create-a-page"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/create-a-document"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/create-a-blog-post"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/markdown-features"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/deploy-your-site"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/congratulations"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Enjoy!",
+                  "slug": "/category/tutorial---basics",
+                  "permalink": "/docs/category/tutorial---basics"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Tutorial - Extras",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tutorial-extras/manage-docs-versions"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-extras/translate-your-site"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/tutorial---extras",
+                  "permalink": "/docs/category/tutorial---extras"
+                }
+              },
+              {
+                "type": "category",
+                "label": "90",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "90/Access GCP instance"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "90/Access AWX"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [
+        {
+          "id": "welcome",
+          "metadata": {
+            "permalink": "/blog/welcome",
+            "editUrl": "https://github.com/Chamssiddine/azure-devops-aks/blog/2021-08-26-welcome/index.md",
+            "source": "@site/blog/2021-08-26-welcome/index.md",
+            "title": "Welcome",
+            "description": "Docusaurus blogging features are powered by the blog plugin.",
+            "date": "2021-08-26T00:00:00.000Z",
+            "formattedDate": "August 26, 2021",
+            "tags": [
+              {
+                "label": "facebook",
+                "permalink": "/blog/tags/facebook"
+              },
+              {
+                "label": "hello",
+                "permalink": "/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.405,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Sébastien Lorber",
+                "title": "Docusaurus maintainer",
+                "url": "https://sebastienlorber.com",
+                "imageURL": "https://github.com/slorber.png",
+                "key": "slorber"
+              },
+              {
+                "name": "Yangshun Tay",
+                "title": "Front End Engineer @ Facebook",
+                "url": "https://github.com/yangshun",
+                "imageURL": "https://github.com/yangshun.png",
+                "key": "yangshun"
+              }
+            ],
+            "frontMatter": {
+              "slug": "welcome",
+              "title": "Welcome",
+              "authors": [
+                "slorber",
+                "yangshun"
+              ],
+              "tags": [
+                "facebook",
+                "hello",
+                "docusaurus"
+              ]
+            },
+            "nextItem": {
+              "title": "MDX Blog Post",
+              "permalink": "/blog/mdx-blog-post"
+            }
+          },
+          "content": "[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).\n\nSimply add Markdown files (or folders) to the `blog` directory.\n\nRegular blog authors can be added to `authors.yml`.\n\nThe blog post date can be extracted from filenames, such as:\n\n- `2019-05-30-welcome.md`\n- `2019-05-30-welcome/index.md`\n\nA blog post folder can be convenient to co-locate blog post images:\n\n![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)\n\nThe blog supports tags as well!\n\n**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config."
+        },
+        {
+          "id": "mdx-blog-post",
+          "metadata": {
+            "permalink": "/blog/mdx-blog-post",
+            "editUrl": "https://github.com/Chamssiddine/azure-devops-aks/blog/2021-08-01-mdx-blog-post.mdx",
+            "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
+            "title": "MDX Blog Post",
+            "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
+            "date": "2021-08-01T00:00:00.000Z",
+            "formattedDate": "August 1, 2021",
+            "tags": [
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.175,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Sébastien Lorber",
+                "title": "Docusaurus maintainer",
+                "url": "https://sebastienlorber.com",
+                "imageURL": "https://github.com/slorber.png",
+                "key": "slorber"
+              }
+            ],
+            "frontMatter": {
+              "slug": "mdx-blog-post",
+              "title": "MDX Blog Post",
+              "authors": [
+                "slorber"
+              ],
+              "tags": [
+                "docusaurus"
+              ]
+            },
+            "prevItem": {
+              "title": "Welcome",
+              "permalink": "/blog/welcome"
+            },
+            "nextItem": {
+              "title": "Long Blog Post",
+              "permalink": "/blog/long-blog-post"
+            }
+          },
+          "content": "Blog posts support [Docusaurus Markdown features](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).\n\n:::tip\n\nUse the power of React to create interactive blog posts.\n\n```js\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n```\n\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n\n:::"
+        },
+        {
+          "id": "long-blog-post",
+          "metadata": {
+            "permalink": "/blog/long-blog-post",
+            "editUrl": "https://github.com/Chamssiddine/azure-devops-aks/blog/2019-05-29-long-blog-post.md",
+            "source": "@site/blog/2019-05-29-long-blog-post.md",
+            "title": "Long Blog Post",
+            "description": "This is the summary of a very long blog post,",
+            "date": "2019-05-29T00:00:00.000Z",
+            "formattedDate": "May 29, 2019",
+            "tags": [
+              {
+                "label": "hello",
+                "permalink": "/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 2.05,
+            "hasTruncateMarker": true,
+            "authors": [
+              {
+                "name": "Endilie Yacop Sucipto",
+                "title": "Maintainer of Docusaurus",
+                "url": "https://github.com/endiliey",
+                "imageURL": "https://github.com/endiliey.png",
+                "key": "endi"
+              }
+            ],
+            "frontMatter": {
+              "slug": "long-blog-post",
+              "title": "Long Blog Post",
+              "authors": "endi",
+              "tags": [
+                "hello",
+                "docusaurus"
+              ]
+            },
+            "prevItem": {
+              "title": "MDX Blog Post",
+              "permalink": "/blog/mdx-blog-post"
+            },
+            "nextItem": {
+              "title": "First Blog Post",
+              "permalink": "/blog/first-blog-post"
+            }
+          },
+          "content": "This is the summary of a very long blog post,\n\nUse a `<!--` `truncate` `-->` comment to limit blog post size in the list view.\n\n<!--truncate-->\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
+        },
+        {
+          "id": "first-blog-post",
+          "metadata": {
+            "permalink": "/blog/first-blog-post",
+            "editUrl": "https://github.com/Chamssiddine/azure-devops-aks/blog/2019-05-28-first-blog-post.md",
+            "source": "@site/blog/2019-05-28-first-blog-post.md",
+            "title": "First Blog Post",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
+            "date": "2019-05-28T00:00:00.000Z",
+            "formattedDate": "May 28, 2019",
+            "tags": [
+              {
+                "label": "hola",
+                "permalink": "/blog/tags/hola"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.12,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Gao Wei",
+                "title": "Docusaurus Core Team",
+                "url": "https://github.com/wgao19",
+                "image_url": "https://github.com/wgao19.png",
+                "imageURL": "https://github.com/wgao19.png"
+              }
+            ],
+            "frontMatter": {
+              "slug": "first-blog-post",
+              "title": "First Blog Post",
+              "authors": {
+                "name": "Gao Wei",
+                "title": "Docusaurus Core Team",
+                "url": "https://github.com/wgao19",
+                "image_url": "https://github.com/wgao19.png",
+                "imageURL": "https://github.com/wgao19.png"
+              },
+              "tags": [
+                "hola",
+                "docusaurus"
+              ]
+            },
+            "prevItem": {
+              "title": "Long Blog Post",
+              "permalink": "/blog/long-blog-post"
+            }
+          },
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "items": [
+            "welcome",
+            "mdx-blog-post",
+            "long-blog-post",
+            "first-blog-post"
+          ],
+          "metadata": {
+            "permalink": "/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 4,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          }
+        }
+      ],
+      "blogTags": {
+        "/blog/tags/facebook": {
+          "label": "facebook",
+          "items": [
+            "welcome"
+          ],
+          "permalink": "/blog/tags/facebook",
+          "pages": [
+            {
+              "items": [
+                "welcome"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/facebook",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/blog/tags/hello": {
+          "label": "hello",
+          "items": [
+            "welcome",
+            "long-blog-post"
+          ],
+          "permalink": "/blog/tags/hello",
+          "pages": [
+            {
+              "items": [
+                "welcome",
+                "long-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/hello",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 2,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/blog/tags/docusaurus": {
+          "label": "docusaurus",
+          "items": [
+            "welcome",
+            "mdx-blog-post",
+            "long-blog-post",
+            "first-blog-post"
+          ],
+          "permalink": "/blog/tags/docusaurus",
+          "pages": [
+            {
+              "items": [
+                "welcome",
+                "mdx-blog-post",
+                "long-blog-post",
+                "first-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/docusaurus",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 4,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/blog/tags/hola": {
+          "label": "hola",
+          "items": [
+            "first-blog-post"
+          ],
+          "permalink": "/blog/tags/hola",
+          "pages": [
+            {
+              "items": [
+                "first-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/hola",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        }
+      },
+      "blogTagsListPath": "/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "hello",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "hello"
+        }
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-lunr-search": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

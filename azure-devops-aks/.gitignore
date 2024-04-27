@@ -1,0 +1,6 @@
+documentation/node_modules
+src/backend/node_modules
+src/frontend/node_modules
+terraform/terraform*
+terraform/.terraform*
+minikube

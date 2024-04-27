@@ -1,0 +1,16 @@
+{
+  "title": "Configuration Management",
+  "description": "Enjoy!",
+  "slug": "/category/configuration-management",
+  "permalink": "/docs/category/configuration-management",
+  "navigation": {
+    "previous": {
+      "title": "Configuration of Grafana Dashboards",
+      "permalink": "/docs/Azure DevOps/Configuration of Grafana Dashboards"
+    },
+    "next": {
+      "title": "# ArgoCD role",
+      "permalink": "/docs/Deploy ArgoCD with Helm/Introduction"
+    }
+  }
+}
